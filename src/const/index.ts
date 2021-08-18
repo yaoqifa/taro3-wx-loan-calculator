@@ -1,0 +1,1 @@
+export const TopTabEnums = ['商业贷款', '公积金贷款', '组合贷款']
